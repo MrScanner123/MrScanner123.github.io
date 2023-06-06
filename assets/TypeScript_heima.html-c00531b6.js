@@ -1,0 +1,1 @@
+import{_ as t,o as c,c as r,b as e,d as a}from"./app-f6785d32.js";const s={},i=e("h1",{id:"typescript-黑马",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#typescript-黑马","aria-hidden":"true"},"#"),a(" TypeScript(黑马)")],-1),o=[i];function _(n,d){return c(),r("div",null,o)}const h=t(s,[["render",_],["__file","TypeScript_heima.html.vue"]]);export{h as default};
